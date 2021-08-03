@@ -1,2 +1,7 @@
 # andhadhun
-This is the repository for my ongoing final year project.
+Andhadhun is an OCR based system for visually
+impaired people to read printed Bangla texts from
+image.
+
+
+###currently working
